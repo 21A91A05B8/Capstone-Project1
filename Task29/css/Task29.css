@@ -1,0 +1,444 @@
+div{
+	background-color: pink;
+	height:3000px;
+	width: 900px;
+}
+.div1{
+	height: 500px;
+	background-color: yellow;
+	width: 900px;
+}
+.div2{
+	height: 400px;
+	background-color:rgb(232,45,45);
+	width: 900px;
+}
+.div21{
+	height: 400px;
+	background-color:rgb(232,45,45) ;
+	width: 300px;
+	float: left;
+
+	
+}
+.div22{
+	height: 400px;
+	background-color:rgb(232,45,45) ;
+	width: 200px;
+	float: right;
+}
+
+.div3{
+	height: 400px;
+	background-color: black;
+	width: 900px;
+
+}
+.div31{
+	height: 400px;
+	width: 450px;
+	float: left;
+	background-color:black;
+	color: white;
+}
+.div32{
+	height: 400px;
+	width: 450px;
+	
+	background-color: black;
+	color: white;
+	float: right;
+}
+.div4{
+	height: 400px;
+	background-color: palevioletred;
+	width: 900px;
+	position: relative;
+}
+.div5{
+	height: 350px;
+	background-color:rgb(232,45,45) ;
+	width: 900px;
+}
+.div6{
+	height: 500px;
+	background-color: violet;
+	width: 900px;
+	positon: relative;
+}
+.k1{
+	height: 500px;
+	background-color: violet;
+	width: 900px;
+	
+}
+.k2{
+	position: absolute;
+	background-color: transparent;
+
+	width: 300px;
+	height: 400px;
+	top: 2150px;
+	left: 1200px;
+	border: 4px solid white;
+}
+.i2{
+	height: 300px;
+	width: 300px;
+	transform: rotate(330deg);
+	position: absolute;
+	
+	padding-right: -20px;
+	padding-bottom: 650px;
+	padding-top: 50px;
+
+}
+
+.div7{
+	height: 500px;
+	background-color:rgb(232,45,45);
+	width: 900px;
+	position: relative;
+}
+.div71{
+	height: 500px;
+	background-color:rgb(232,45,45);
+	width: 500px;
+	float: left;
+}
+.div72{
+	height: 500px;
+	background-color:rgb(232,45,45);
+	width: 400px;
+	float: right;
+}
+.div8{
+	height: 150px;
+	background-color: dimgrey;
+	width: 900px;
+	padding-top: 10px;
+
+}
+.a1{
+	height: 500px;
+	width: 900px;
+
+}
+.b1{
+	height: 400px;
+	width: 250px;
+	position: relative;
+   bottom: -1px;
+   left: -70px;
+}
+.c1{
+	position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-transform: capitalize;
+}
+.c2{
+	font-size: 50px;
+}
+h1{
+	font-size: 40px;
+}
+h3{
+	font-size: 40px;
+}
+.p1{
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-top: 3px;
+}
+.h1{
+	font-size: 20px;
+	padding-right: 250px;
+	padding-top: 3px;
+	line-height: 20%;
+}
+.h2{
+	font-size: 20px;
+	font-weight: 900px;
+	padding-right: 260px;
+	padding-bottom: -5px;
+	line-height: 20%;
+	font-family: fantasy;
+	letter-spacing: 1px;
+}
+.h11{
+	font-size: 100px;
+	padding-right: 275px;
+	line-height: 20%;
+}
+.i1{
+	height: 500px;
+	
+	width: 900px;
+}
+.x1{
+	position: absolute;
+  top: 0;
+  left: 0;
+  padding: 15rem;
+  padding-left: 100px;
+  font-size: 2rem;
+  font-weight: 100;
+  color: white;
+ }
+ .y1{
+ 	font-size: 50px;
+ 	color: white;
+ 	padding-top: 100px;
+ 	line-height: 80%;
+ }
+ i{
+	font-size: 40px;
+	padding-bottom: 200px;
+	line-height: 80%;
+	color: white;
+	margin-right: 20px;
+
+}
+.s{
+	position: absolute;
+  top: 0;
+  left: 0;
+  padding: 1rem;
+  padding-left: 50px;
+  font-size: 5rem;
+  font-weight: 100;
+  color: white;
+}
+.q1{
+	color: red;
+	position: absolute;
+  top: 50px;
+  left: 350px;
+
+  padding-right: 500px;
+  font-size: 2rem;
+  font-weight: 300;
+  
+}
+.q2{
+	color: white;
+	position: absolute;
+  top: 100px;
+  left: 350px;
+
+  padding-right: 500px;
+  font-size: 1rem;
+  font-weight: 300;
+}
+.t1{
+	padding-right: 210px;
+	padding-top: 50px;
+	font-size: 30px;
+	color: white;
+	font-weight: 100px;
+}
+.s1{
+	font-size: 15px;
+}
+.s2{
+	font-size: 5px;
+	line-height: 80%;
+}
+.s3{
+	font-size: 5px;
+	line-height: 80%;
+}
+.w1{
+	font-size: 20px;
+}
+.w9{
+	position: absolute;
+  top: 0;
+  left: 0;
+  padding: 35rem;
+  padding-left: 1500px;
+  font-size: 20px;
+  font-weight: 100;
+  color: white;
+}
+.w10{
+	position: absolute;
+  top: 0;
+  left: 0;
+  padding: 33rem;
+  padding-left: 1475px;
+  font-size: 6.5rem;
+  font-weight: 150;
+  color: white;
+}
+.w11{
+	position: absolute;
+  top: 0;
+  left: 0;
+  padding: 45rem;
+  padding-left: 1150px;
+  font-size: 25px;
+  font-weight: 100;
+  color: white;
+}
+.w12{
+	position: absolute;
+  top: 0;
+  left: 0;
+  padding: 42rem;
+  padding-left: 1550px;
+  font-size: 2rem;
+  font-weight: 100;
+  color: white;
+}
+progress{
+	height: 20px;
+	width: 180px;
+	border-radius: 0px solid white;
+	background-color: 2px solid white;
+	position: relative;
+
+
+}
+#id5{
+	right: 1450px;
+	position: absolute;
+	bottom: -625px;
+	accent-color: white;
+	
+}
+button{
+	
+	background-color: white;
+	height: 5px;
+	width: 140px;
+	margin-left: 400px;
+	position: relative;
+	margin-top: 280px;
+	border: none;
+
+
+}
+.p111{
+	margin-left: 400px;
+	position: absolute;
+	margin-top: 250px;
+	font-size: 1.5rem;
+	color: white;
+
+}
+.p112{
+	margin-left: 350px;
+	position: absolute;
+	margin-top: 250px;
+	font-size: 1rem;
+	color: white;
+
+}
+.z12{
+	height: 3px;
+	width: 150px;
+	position: relative;
+	margin-left: 350px;
+}
+.t4{
+	margin-bottom: 100px;
+}
+.s1{
+	padding-top: 50px;
+	padding-right: 35px;
+	font-size: 30px;
+	position: relative;
+}
+.ab1{
+	padding-right: 420px;
+	color: white;
+	font-size: 15px;
+	width: 200px;
+
+}
+#aab1{
+	
+	padding-right: 300px;
+	width: 30%;
+	height: 30px;
+}
+.ab2{
+	padding-right: 405px;
+	color: white;
+	font-size: 15px;
+}
+#aab2{
+	padding-right: 300px;
+	width: 30%;
+	height: 30px;
+}
+.ab3{
+	padding-right: 405px;
+	color: white;
+	font-size: 15px;
+}
+#aab3{
+	padding-right: 300px;
+	width: 30%;
+	height: 85px;
+}
+
+.ab5{
+	position: relative;
+	background-color: transparent;
+	bottom: 280px;
+	right: 380px;
+	width: 100px;
+	height: 25px;
+	border: 1px solid white;
+	
+}
+#s2{
+	position: absolute;
+	top: 130px;
+	right: 300px;
+}
+#s3{
+	position: absolute;
+	top: 250px;
+	right: 300px;
+}
+#s4{
+	position: absolute;
+	top: 370px;
+	right: 300px;
+}
+
+.aa1{
+	font-size: 20px;
+	color: white;
+	position: absolute;
+	padding-top: 30px;
+	padding-right: 100px;
+	padding-left: 30px;
+	
+}
+.aa2{
+	font-size: 20px;
+	color: white;
+	position: absolute;
+	padding-top: 150px;
+	padding-right: 100px;
+	padding-left: 30px;
+	
+}
+
+.aa3{
+	font-size: 20px;
+	color: white;
+	position: absolute;
+	padding-top: 280px;
+	padding-right: 100px;
+	padding-left: 30px;
+	
+}
+
